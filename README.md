@@ -61,3 +61,11 @@ This project contains two classic games implemented in C:<br/>
 → Windows Console: conio.h, windows.h<br/><br/>
 
 <hr/>
+<b>👨‍💻 Team Project</b><br/>
+This project was developed as part of a course requirement, showcasing game development fundamentals in C.<br/><br/>
+
+<b>Team Members:</b><br/>
+→ Kandula Joji Kumar<br/>
+→ Sagili Tagur Deepak Reddy<br/>
+→ Pidathala Reddy Raghavendra<br/>
+→ G. Manikanta<br/>
